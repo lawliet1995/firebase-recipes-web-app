@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;
-500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
 * {
   font-family: 'Roboto', sans-serif;
 }
@@ -12,6 +11,12 @@ html {
   align-items: center;
   justify-content: center;
 }
+
+.App-logo {
+  width: 20rem;
+  height: 20rem;
+}
+
 .App .title-row {
   display: flex;
   width: 70rem;
